@@ -4,13 +4,13 @@ Bu Hizmet Şartları ("Şartlar", "Şartlar ve Koşullar"), "Hylus" (Discord ID:
 
 ## Tanımlar
 Bu bölümde geçen terimlerin anlamları:
-- Bot: "Hylus" olarak bilinen Discord botu. (Hylus#2653) (Discord ID: "1264883239458439209")
-- Hizmet: Discord botu üzerinden sunulan her türlü işlevsellik ve hizmet.
-- Kullanıcı: Discord üzerinden botu kullanan herhangi bir kullanıcı.
-- Sunucu: Botun kullanıldığı Discord sunucusu.
+- **Bot:** "Hylus" olarak bilinen Discord botu. (Hylus#2653) (Discord ID: "1264883239458439209")
+- **Hizmet:** Discord botu üzerinden sunulan her türlü işlevsellik ve hizmet.
+- **Kullanıcı:** Discord üzerinden botu kullanan herhangi bir kullanıcı.
+- **Sunucu:** Botun kullanıldığı Discord sunucusu.
 
 ## 1. Hizmet Kapsamı
-- Sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız değişiklikler, Botdada yayınlanmakla yürürlüğe girmiş sayılacaktır.
+- Sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız değişiklikler, Botda yayınlanmakla yürürlüğe girmiş sayılacaktır.
 
 - Bot, Discord sunucularında kullanılmak üzere tasarlanmıştır. Botun kullanımı, Discord Hizmet Şartları'na (https://discord.com/terms) ve Topluluk Kuralları'na (https://discord.com/guidelines) uygun uygun olarak gerçekleştirilmelidir.
 
@@ -49,6 +49,6 @@ Bu bölümde geçen terimlerin anlamları:
 ## Sonuç
 - Bu hizmet şartları, botun güvenli, adil ve sorunsuz bir şekilde kullanılmasını sağlamak amacıyla oluşturulmuştur. Kullanıcılar, Hizmetimizi kullanarak bu şartları kabul etmiş sayılırlar. Herhangi bir sorunuz veya talebiniz varsa, hylusbot@gmail.com adresinden bize ulaşabilirsiniz.
 
-**Son Düzenlenme Tarihi:** 03/10/2024
+**Son Düzenlenme Tarihi:** 09/10/2024
 
 ### Kullanıcılar, botu kullanarak bu şartları kabul etmiş sayılırlar.
