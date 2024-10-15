@@ -10,9 +10,9 @@ Bu bölümde geçen terimlerin anlamları:
 - **Sunucu:** Botun kullanıldığı Discord sunucusu.
 
 ## 1. Hizmet Kapsamı
-- Sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız değişiklikler, Botda yayınlanmakla yürürlüğe girmiş sayılacaktır.
+- Sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız değişiklikler, botta yayınlanmakla yürürlüğe girmiş sayılacaktır.
 
-- Bot, Discord sunucularında kullanılmak üzere tasarlanmıştır. Botun kullanımı, Discord Hizmet Şartları'na (https://discord.com/terms) ve Topluluk Kuralları'na (https://discord.com/guidelines) uygun uygun olarak gerçekleştirilmelidir.
+- Bot, Discord sunucularında kullanılmak üzere tasarlanmıştır. Botun kullanımı, Discord Hizmet Şartları'na (https://discord.com/terms) ve Topluluk Kuralları'na (https://discord.com/guidelines) uygun olarak gerçekleştirilmelidir.
 
 ## 2. Sorumluluk Reddi
 - Bot, mevcut durumuyla sunulur ve herhangi bir garanti vermez.
@@ -34,7 +34,7 @@ Bu bölümde geçen terimlerin anlamları:
 - Botun üzerinde yayınlanan tüm metin, kod, logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi (bundan böyle ve daha sonra "içerik" olarak anılacaktır) Bot Geliştiricileri olup, tüm hakları saklıdır. Yazılı izin verilmeden içeriğinin çoğaltılması veya kopyalanması kesinlikle yasaktır.
 
 ## 5. Genel Hükümler
-- Botda sunulan hizmetlerde, kusur veya hata olmayacağına ya da kesintisiz hizmet verileceğine dair garanti vermemekteyiz. Botun hizmetlerine veya herhangi bir bölümüne olan erişiminizi önceden bildirmeksizin herhangi bir zamanda sonlandırabiliriz.
+- Botta sunulan hizmetlerde, kusur veya hata olmayacağına ya da kesintisiz hizmet verileceğine dair garanti vermemekteyiz. Botun hizmetlerine veya herhangi bir bölümüne olan erişiminizi önceden bildirmeksizin herhangi bir zamanda sonlandırabiliriz.
 
 - Geliştiriciler, hizmetin planlı bakım ve güncellemeleri için gerekli gördükleri durumlarda, bildirim yapılmaksızın hizmeti geçici olarak durdurabilirler.
 
@@ -49,6 +49,6 @@ Bu bölümde geçen terimlerin anlamları:
 ## Sonuç
 - Bu hizmet şartları, botun güvenli, adil ve sorunsuz bir şekilde kullanılmasını sağlamak amacıyla oluşturulmuştur. Kullanıcılar, Hizmetimizi kullanarak bu şartları kabul etmiş sayılırlar. Herhangi bir sorunuz veya talebiniz varsa, hylusbot@gmail.com adresinden bize ulaşabilirsiniz.
 
-**Son Düzenlenme Tarihi:** 09/10/2024
+**Son Düzenlenme Tarihi:** 16/10/2024
 
 ### Kullanıcılar, botu kullanarak bu şartları kabul etmiş sayılırlar.
