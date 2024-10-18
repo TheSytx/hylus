@@ -15,7 +15,7 @@ Verileriniz, botun Discord ile olan etkileşimleri sırasında otomatik olarak t
 Toplanan bilgiler yalnızca hizmetlerimizi sunmak, geliştirmek, güvenliği sağlamak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılır. Bu bilgiler asla üçüncü şahıslarla paylaşılmaz veya satılmaz.
 
 ## 4) Veri Güvenliği
-Verilerinizin güvenliği önemlidir. Bu nedenle, en uygun güvenlik önlemlerini almak için çaba sarf ediyoruz. Verileriniz dışa kapalı bir veritabanında saklanır. Verilerinizin gizliliği hakkında endişeleriniz veya sorularınız varsa, hylusbot@gmail.com adresine elektronik posta göndererek bize ulaşabilirsiniz.
+Verilerinizin güvenliği önemlidir. Bu nedenle, en uygun güvenlik önlemlerini almak için çaba sarf ediyoruz. Verileriniz dışa kapalı bir veritabanında saklanır. Ancak, internet üzerinden iletilen bilgilerin tam güvenliği garanti edilemez. Verilerinizin gizliliği hakkında endişeleriniz veya sorularınız varsa, hylusbot@gmail.com adresine elektronik posta göndererek bize ulaşabilirsiniz.
 
 ## 5) Veri Silme
 Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verilerinizin tamamen silinmesi için hylusbot@gmail.com adresine elektronik posta göndererek talebinizi iletebilirsiniz. Talebiniz, alındıktan sonra 30 gün içerisinde işleme alınacaktır.
@@ -23,6 +23,6 @@ Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verileriniz
 ## 6) Politikada Değişiklikler
 Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasın da yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
-**Son Düzenlenme Tarihi:** 08/10/2024
+**Son Düzenlenme Tarihi:** 18/10/2024
 
 ### Bu gizlilik politikası, Discord botumuzun kullanımı sırasında toplanan bilgileri açıklar. Kullanıcılar, botumuzu kullanarak bu politikayı kabul etmiş sayılırlar.
