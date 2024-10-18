@@ -21,7 +21,7 @@ Verilerinizin güvenliği önemlidir. Bu nedenle, en uygun güvenlik önlemlerin
 Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verilerinizin tamamen silinmesi için hylusbot@gmail.com adresine elektronik posta göndererek talebinizi iletebilirsiniz. Talebiniz, alındıktan sonra 30 gün içerisinde işleme alınacaktır.
 
 ## 6) Politikada Değişiklikler
-Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasın da yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
+Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasında yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
 **Son Düzenlenme Tarihi:** 18/10/2024
 
