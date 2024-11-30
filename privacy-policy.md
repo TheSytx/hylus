@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Bu Gizlilik Politikası, "Hylus" (Discord ID: "1264883239458439209") olarak bilinen Discord botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını ve kullanıldığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
+Bu Gizlilik Politikası, "Hylus" (Discord ID: "1264883239458439209") ("Bot") olarak bilinen Discord botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını ve kullanıldığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
 
 ## 1) Saklanan Verileriniz
 Botumuz, hizmetlerini sunmak ve geliştirmek amacıyla aşağıdaki bilgileri toplayabilir:
@@ -23,6 +23,6 @@ Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verileriniz
 ## 6) Politikada Değişiklikler
 Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasında yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
-**Son Düzenlenme Tarihi:** 18/10/2024
+**Son Düzenlenme Tarihi:** 30/11/2024
 
 ### Bu gizlilik politikası, Discord botumuzun kullanımı sırasında toplanan bilgileri açıklar. Kullanıcılar, botumuzu kullanarak bu politikayı kabul etmiş sayılırlar.
